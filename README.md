@@ -1,2 +1,3 @@
-# bootstrap-first-assignment-Kodego
-Assignment for Kode Bootstrap
+### Assignment for Kodego
+
+First Bootstrap assignment
